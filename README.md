@@ -39,4 +39,4 @@ Modul ini bekerja secara otomatis tanpa perlu aplikasi tambahan atau task killer
 ---
 
 ## Dibuat oleh
-**@unknuw x ChatGPT**
+[@unknuw](https://t.me/unknuw) x [ChatGPT](https://chat.openai.com/)
