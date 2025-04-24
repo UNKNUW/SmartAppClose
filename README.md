@@ -1,4 +1,4 @@
-# Smart App Close (Gaming Mode) MODULE FOR MAGISK/KSU
+# Smart App Close (Gaming Mode)
 
 ## Apa Fungsi Modul Ini?
 
