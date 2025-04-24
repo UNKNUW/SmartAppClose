@@ -1,0 +1,6 @@
+id=smartappclose
+name=Smart App Close (Gaming Mode)
+version=1.3
+versionCode=28
+author=@unknuw x ChatGPT
+description=To use module go to /data/adb/modules/smartappclose/system/etc/smartappclose/ • Edit file (whitelist.txt: for apps u don't wanna kill) (gamelist.txt : for ur Games) = NEED REBOOT AFTER EDIT =

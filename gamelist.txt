@@ -1,0 +1,2 @@
+com.tencent.ig
+com.mobile.legends
