@@ -1,4 +1,4 @@
-# Smart App Close (Gaming Mode)
+### Smart App Close (Gaming Mode)
 
 ## Apa Fungsi Modul Ini?
 
@@ -41,7 +41,7 @@ Modul ini bekerja secara otomatis tanpa perlu aplikasi tambahan atau task killer
 ## Download
 
 Kamu bisa mengunduh semua versi modul dari halaman rilis resmi berikut:  
-[**DOWNLOAD NOW**](https://github.com/johnwick278/SmartAppClose/releases)
+[**DOWNLOAD**](https://github.com/johnwick278/SmartAppClose/releases)
 
 ---
 
