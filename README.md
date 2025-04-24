@@ -41,7 +41,7 @@ Modul ini bekerja secara otomatis tanpa perlu aplikasi tambahan atau task killer
 ## Download
 
 Kamu bisa mengunduh semua versi modul dari halaman rilis resmi berikut:  
-[**KLIK SAYA**](https://github.com/johnwick278/SmartAppClose/releases)
+[**DOWNLOAD NOW**](https://github.com/johnwick278/SmartAppClose/releases)
 
 ---
 
