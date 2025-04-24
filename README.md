@@ -37,6 +37,14 @@ Modul ini bekerja secara otomatis tanpa perlu aplikasi tambahan atau task killer
 - `gamelist.txt` = Daftar game yang **akan memicu pembersihan**
 
 ---
+---
+
+## Download
+
+Kamu bisa mengunduh semua versi modul dari halaman rilis resmi berikut:  
+[https://github.com/johnwick278/SmartAppClose/releases](https://github.com/johnwick278/SmartAppClose/releases)
+
+---
 
 ## Dibuat oleh
 [@unknuw](https://t.me/unknuw) x [ChatGPT](https://chat.openai.com/)
