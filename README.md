@@ -4,7 +4,7 @@
 Smart App Close adalah modul berbasis KernelSU / Magisk yang dirancang khusus untuk meningkatkan performa gaming di Android dengan cara **menutup otomatis aplikasi-aplikasi di background** yang tidak dibutuhkan saat game dijalankan. Modul ini sangat berguna untuk perangkat dengan RAM terbatas agar fokus resource tetap ke game yang sedang dimainkan.
 
 ## Download
-**[Download Latest Release (v1.3)](https://github.com/USERNAME/SmartAppClose/releases/latest)**
+**[Download Latest Release (v1.3)](https://github.com/johnwick278/SmartAppClose/releases/latest)**
 
 ---
 
