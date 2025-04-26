@@ -48,7 +48,7 @@ Modul ini bekerja secara otomatis tanpa perlu aplikasi tambahan atau task killer
 
 ---
 
-## Pengaturan:
+## Info:
 - `whitelist.txt` = Daftar app yang **tidak ingin di-kill**
 - `gamelist.txt` = Daftar game yang **akan memicu pembersihan**
 
