@@ -34,6 +34,20 @@ Modul ini bekerja secara otomatis tanpa perlu aplikasi tambahan atau task killer
 
 ---
 
+## Cara Penggunaan
+1. Flash modul via Magisk / KernelSU / KernelSU Next
+2. Reboot device
+3. Akses:
+   ```
+   /data/adb/modules/smartappclose/system/etc/smartappclose/
+   ```
+4. Edit file:
+   - `whitelist.txt`: aplikasi yang tidak ingin ditutup
+   - `gamelist.txt`: aplikasi game yang memicu clean
+5. Enjoying Gaming
+
+---
+
 ## Pengaturan:
 - `whitelist.txt` = Daftar app yang **tidak ingin di-kill**
 - `gamelist.txt` = Daftar game yang **akan memicu pembersihan**
