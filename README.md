@@ -1,6 +1,6 @@
 ![SmartAppClose Logo](./smarappcloselogo.png)
 
-### Smart App Close (Gaming Mode)
+## Smart App Close (Gaming Mode)
 
 ## Apa Fungsi Modul Ini?
 
