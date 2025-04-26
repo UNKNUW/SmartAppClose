@@ -1,4 +1,4 @@
-![SmartAppClose Logo](./smarappcloselogo.png)
+![SmartAppClose Logo](./smarappcloselogos.png)
 
 ## Smart App Close (Gaming Mode)
 
