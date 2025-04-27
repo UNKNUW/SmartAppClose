@@ -54,6 +54,11 @@ Modul ini bekerja secara otomatis tanpa perlu aplikasi tambahan atau task killer
 
 ---
 
+## untuk Android 11 Users
+Jika mengalami error saat install, [klik di sini untuk petunjuk manual](./for_Android_11.md)
+
+---
+
 ## Download
 
 Kamu bisa mengunduh semua versi modul dari halaman rilis resmi berikut:  
