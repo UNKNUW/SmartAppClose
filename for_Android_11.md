@@ -59,7 +59,7 @@ Pastikan permission file benar:
 - Setelah fix, modul akan aktif dan berjalan normal.
 
 ---
-> **NOTE:** 📱  
+> **Note:** 📱  
 > Kalau belum punya aplikasi file manager root, kamu bisa download salah satu berikut:  
 > - [Root Explorer](https://play.google.com/store/apps/details?id=com.speedsoftware.rootexplorer)  
 > - [MT Manager](https://mtmanager.en.uptodown.com/android)  
