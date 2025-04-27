@@ -59,8 +59,13 @@ Pastikan permission file benar:
 - Setelah fix, modul akan aktif dan berjalan normal.
 
 ---
-> **Note:** 
-> Kalau belum punya Root Explorer atau MT Manager, bisa download dari [Play Store](https://play.google.com/store) atau website resmi.
+> **Note:** 📱  
+> Kalau belum punya aplikasi file manager root, kamu bisa download salah satu berikut:  
+> - [Root Explorer](https://play.google.com/store/apps/details?id=com.speedsoftware.rootexplorer)  
+> - [MT Manager](https://mtmanager.en.uptodown.com/android)  
+> - [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
+
+Gunakan salah satu aplikasi di atas untuk meng-copy folder dan mengatur permission.
 ---
 
 Dibuat oleh  
