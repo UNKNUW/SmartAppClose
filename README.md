@@ -55,7 +55,7 @@ Modul ini bekerja secara otomatis tanpa perlu aplikasi tambahan atau task killer
 ---
 
 ## untuk Android 11 Users
-Jika mengalami error saat install, [klik di sini untuk petunjuk manual](./for_Android_11.md)
+Jika mengalami error saat install, [klik di sini](./for_Android_11.md)
 
 ---
 
