@@ -6,8 +6,6 @@ Maka ikuti langkah manual berikut:
 
 ---
 
-## Cara Manual Fix Modul di Android 11
-
 ### 1. Push Manual Modul
 - Extract file ZIP modul SmartAppClose.
 - buat folder baru "smartappclose" di :
