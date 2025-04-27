@@ -1,11 +1,6 @@
 # SmartAppClose - Info Khusus untuk Android 11 Users
 
-Pada beberapa perangkat Android 11, ada kemungkinan modul **gagal aktif** atau **error** setelah proses flashing menggunakan KernelSU / Magisk.
-
-Jika setelah flash:
-- Modul tidak aktif
-- Tidak ada perubahan
-- Log `/data/local/tmp/smartappclose_log.txt` kosong
+Pada beberapa perangkat Android 11, ada kemungkinan modul **gagal** atau **error** saat proses flashing menggunakan KernelSU / Magisk.
 
 Maka ikuti langkah manual berikut:
 
@@ -15,30 +10,26 @@ Maka ikuti langkah manual berikut:
 
 ### 1. Push Manual Modul
 - Extract file ZIP modul SmartAppClose.
-- Push folder `smartappclose/` ke:
+- buat folder baru "smartappclose" di :
+  ...
+  /data/adb/modules/
+  ...
+  
+ 
+- Push hasil extract tadi ke `smartappclose/`:
   ```
   /data/adb/modules/
   ```
-  Gunakan perintah:
-  ```bash
-  adb push smartappclose /data/adb/modules/
-  ```
+  
 
 ### 2. Set Ulang Permission
-Pastikan permission file/folder benar:
-```bash
-adb shell
-su
-chmod -R 755 /data/adb/modules/smartappclose/
-chmod 644 /data/adb/modules/smartappclose/module.prop
-chmod 755 /data/adb/modules/smartappclose/service.sh
-```
+Pastikan permission file benar:
+- service.sh -rw-r-r
+- module.prop -rw-r-r
+- gamelist.txt -rw-r-r
+- whitelist.txt -rw-r-r
 
 ### 3. Reboot Perangkat
-Setelah semua permission disesuaikan, lakukan reboot manual:
-```bash
-adb reboot
-```
 
 ---
 
