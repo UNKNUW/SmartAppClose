@@ -35,11 +35,11 @@ Pastikan permission file benar:
    ```
    /data/adb/modules/smartappclose/system/etc/smartappclose/
    ```
-Edit file.
-whitelist.txt: aplikasi yang tidak ingin ditutup
-gamelist.txt: aplikasi game yang memicu clean
-
-### 5. Enjoying Gaming
+### 5. Edit file:
+   - `whitelist.txt`: aplikasi yang tidak ingin ditutup
+   - `gamelist.txt`: aplikasi game yang memicu clean
+     
+### 6. Enjoying Gaming
 
 ---
 
