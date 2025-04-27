@@ -31,7 +31,15 @@ Pastikan permission file benar:
 
 ### 3. Reboot Device
 
-### 4. Enjoying Gaming
+### 4. Akses:
+   ```
+   /data/adb/modules/smartappclose/system/etc/smartappclose/
+   ```
+Edit file.
+whitelist.txt: aplikasi yang tidak ingin ditutup
+gamelist.txt: aplikasi game yang memicu clean
+
+### 5. Enjoying Gaming
 
 ---
 
