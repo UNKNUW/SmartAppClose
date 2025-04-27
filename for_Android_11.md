@@ -37,7 +37,7 @@ Pastikan permission file benar:
    ```
 ### 5. Edit file:
    - `whitelist.txt`: aplikasi yang tidak ingin ditutup
-   - `gamelist.txt`: aplikasi game yang memicu clean
+   - `gamelist.txt`: aplikasi game yang memicu kill
      
 ### 6. Enjoying Gaming
 
