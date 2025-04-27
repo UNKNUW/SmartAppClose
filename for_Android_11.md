@@ -31,6 +31,8 @@ Pastikan permission file benar:
 
 ### 3. Reboot Perangkat
 
+### 4. Enjoying Gaming
+
 ---
 
 ## Penyebab
