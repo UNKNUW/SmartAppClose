@@ -29,7 +29,7 @@ Pastikan permission file benar:
 - whitelist.txt -rw-r-r
   ```
 
-### 3. Reboot Perangkat
+### 3. Reboot Device
 
 ### 4. Enjoying Gaming
 
