@@ -2,7 +2,7 @@
 
 Pada beberapa perangkat Android 11, ada kemungkinan modul **gagal** atau **error** saat proses flashing menggunakan KernelSU / Magisk.
 
-Maka ikuti langkah manual berikut:
+Maka ikuti langkah-langkah berikut:
 
 ---
 
