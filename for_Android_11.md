@@ -1,4 +1,9 @@
-# SmartAppClose - Info Khusus untuk Android 11 Users
+![Fix Android 11 Logo](./logo_android11_fix.png)
+
+# SmartAppClose - Petunjuk untuk Android 11 Users
+...
+
+## SmartAppClose - Info Khusus untuk Android 11 Users
 
 Pada beberapa perangkat Android 11, ada kemungkinan modul **gagal** atau **error** saat proses flashing menggunakan KernelSU / Magisk.
 
