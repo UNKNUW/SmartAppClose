@@ -59,9 +59,9 @@ Pastikan permission file benar:
 ---
 > **Note:** 📱  
 > Kalau belum punya aplikasi file manager root, kamu bisa download salah satu berikut:  
-> - [Root Explorer](https://play.google.com/store/apps/details?id=com.speedsoftware.rootexplorer)  
-> - [MT Manager](https://mt-manager.en.uptodown.com/android)  
-> - [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
+> - [Root Explorer](https://play.google.com/store/apps/details?id=com.speedsoftware.rootexplorer) PAID
+> - [MT Manager](https://mt-manager.en.uptodown.com/android) GRATIS
+> - [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) GRATIS
 >
 > Gunakan salah satu aplikasi di atas untuk meng-copy folder dan mengatur permission.
 ---
