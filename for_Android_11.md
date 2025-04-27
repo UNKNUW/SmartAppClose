@@ -8,7 +8,7 @@ Maka ikuti langkah manual berikut:
 
 ### 1. Push Manual Modul
 - Extract file ZIP modul SmartAppClose.
-- buat folder baru 'smartappclose' di :
+- buat folder baru `smartappclose` di :
   ```
   /data/adb/modules/
   ```
@@ -22,10 +22,12 @@ Maka ikuti langkah manual berikut:
 
 ### 2. Set Ulang Permission
 Pastikan permission file benar:
+  ```
 - service.sh -rw-r-r
 - module.prop -rw-r-r
 - gamelist.txt -rw-r-r
 - whitelist.txt -rw-r-r
+  ```
 
 ### 3. Reboot Perangkat
 
