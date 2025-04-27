@@ -61,7 +61,7 @@ Pastikan permission file benar:
 ---
 > **Note:**  
 > Kalau belum punya Root Explorer atau MT Manager, bisa download dari [Play Store](https://play.google.com/store) atau website resmi.
-
+---
 
 Dibuat oleh  
 [@unknuw](https://t.me/unknuw) x [ChatGPT](https://chat.openai.com)
