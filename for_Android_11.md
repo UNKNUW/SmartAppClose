@@ -16,7 +16,7 @@ Maka ikuti langkah-langkah berikut:
  
 - Push hasil extract tadi ke `smartappclose/`:
   ```
-  /data/adb/modules/
+  /data/adb/modules/smartappclose/
   ```
   
 
