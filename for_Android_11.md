@@ -7,7 +7,7 @@ Maka ikuti langkah manual berikut:
 ---
 
 ### 1. Push Manual Modul
-- Extract file ZIP modul SmartAppClose.
+- Extract file ZIP modul SmartAppClose ke internal
 - buat folder baru `smartappclose` di :
   ```
   /data/adb/modules/
