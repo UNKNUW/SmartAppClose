@@ -1,0 +1,5 @@
+com.whatsapp
+com.android.systemui
+com.whatsapp.w4b
+com.xback.xback_android_official
+bin.mt.plus.canary

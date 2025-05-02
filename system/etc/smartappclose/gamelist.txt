@@ -1,0 +1,3 @@
+com.hermes.h1game.dca.hhwrxhx
+io.chaldeaprjkt.gamespace
+com.google.android.apps.maps
